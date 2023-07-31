@@ -1,0 +1,2 @@
+E:\PlanBoard\PlanBoard.API\PB_API.Common\obj\Release\PB_API.Common.csproj.AssemblyReference.cache
+E:\PlanBoard\PlanBoard.API\PB_API.Common\obj\Release\PB_API.Common.csproj.CoreCompileInputs.cache

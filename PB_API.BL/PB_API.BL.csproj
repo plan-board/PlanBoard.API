@@ -34,6 +34,18 @@
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="PB_API.BL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\PB_API.BL.dll</HintPath>
+    </Reference>
+    <Reference Include="PB_API.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\PB_API.Common\bin\Debug\PB_API.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="PB_API.DL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\PB_API.DL\bin\Debug\PB_API.DL.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -51,14 +63,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PB_API.Common\PB_API.Common.csproj">
-      <Project>{8de52a77-4031-4c9d-a65d-89088572b3e0}</Project>
-      <Name>PB_API.Common</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\PB_API.DL\PB_API.DL.csproj">
-      <Project>{176cf762-5645-468e-b526-d5b01d0353cd}</Project>
-      <Name>PB_API.DL</Name>
-    </ProjectReference>
     <ProjectReference Include="..\PB_API.Entity\PB_API.Entity.csproj">
       <Project>{fc7a4c48-d11b-429e-86d0-3af9bad0b37b}</Project>
       <Name>PB_API.Entity</Name>

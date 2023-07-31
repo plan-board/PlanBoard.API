@@ -1,0 +1,16 @@
+E:\PlanBoard\PlanBoard.API\PB_API.BL\obj\Release\PB_API.BL.csproj.AssemblyReference.cache
+E:\PlanBoard\PlanBoard.API\PB_API.BL\obj\Release\PB_API.BL.csproj.CoreCompileInputs.cache
+E:\PlanBoard\PlanBoard.API\PB_API.BL\bin\Release\PB_API.BL.dll
+E:\PlanBoard\PlanBoard.API\PB_API.BL\bin\Release\PB_API.BL.pdb
+E:\PlanBoard\PlanBoard.API\PB_API.BL\bin\Release\Newtonsoft.Json.dll
+E:\PlanBoard\PlanBoard.API\PB_API.BL\bin\Release\PB_API.Common.dll
+E:\PlanBoard\PlanBoard.API\PB_API.BL\bin\Release\PB_API.DL.dll
+E:\PlanBoard\PlanBoard.API\PB_API.BL\bin\Release\PB_API.Entity.dll
+E:\PlanBoard\PlanBoard.API\PB_API.BL\bin\Release\LoggerDal.dll
+E:\PlanBoard\PlanBoard.API\PB_API.BL\bin\Release\PB_API.Entity.pdb
+E:\PlanBoard\PlanBoard.API\PB_API.BL\bin\Release\Newtonsoft.Json.xml
+E:\PlanBoard\PlanBoard.API\PB_API.BL\bin\Release\PB_API.Common.pdb
+E:\PlanBoard\PlanBoard.API\PB_API.BL\bin\Release\PB_API.DL.pdb
+E:\PlanBoard\PlanBoard.API\PB_API.BL\obj\Release\PB_API.BL.csproj.CopyComplete
+E:\PlanBoard\PlanBoard.API\PB_API.BL\obj\Release\PB_API.BL.dll
+E:\PlanBoard\PlanBoard.API\PB_API.BL\obj\Release\PB_API.BL.pdb

@@ -12,3 +12,17 @@ F:\Dillip\PlanBoard\PB_API.DL\bin\Debug\PB_API.Common.pdb
 F:\Dillip\PlanBoard\PB_API.DL\bin\Debug\PB_API.Entity.pdb
 F:\Dillip\PlanBoard\PB_API.DL\bin\Debug\Newtonsoft.Json.xml
 F:\Dillip\PlanBoard\PB_API.DL\obj\Debug\PB_API.DL.csproj.CopyComplete
+E:\PlanBoard\PlanBoard.API\PB_API.DL\bin\Debug\PB_API.DL.dll
+E:\PlanBoard\PlanBoard.API\PB_API.DL\bin\Debug\PB_API.DL.pdb
+E:\PlanBoard\PlanBoard.API\PB_API.DL\bin\Debug\PB_API.Common.dll
+E:\PlanBoard\PlanBoard.API\PB_API.DL\bin\Debug\PB_API.Entity.dll
+E:\PlanBoard\PlanBoard.API\PB_API.DL\bin\Debug\LoggerDal.dll
+E:\PlanBoard\PlanBoard.API\PB_API.DL\bin\Debug\Newtonsoft.Json.dll
+E:\PlanBoard\PlanBoard.API\PB_API.DL\bin\Debug\PB_API.Common.pdb
+E:\PlanBoard\PlanBoard.API\PB_API.DL\bin\Debug\PB_API.Entity.pdb
+E:\PlanBoard\PlanBoard.API\PB_API.DL\bin\Debug\Newtonsoft.Json.xml
+E:\PlanBoard\PlanBoard.API\PB_API.DL\obj\Debug\PB_API.DL.csproj.AssemblyReference.cache
+E:\PlanBoard\PlanBoard.API\PB_API.DL\obj\Debug\PB_API.DL.csproj.CoreCompileInputs.cache
+E:\PlanBoard\PlanBoard.API\PB_API.DL\obj\Debug\PB_API.DL.csproj.CopyComplete
+E:\PlanBoard\PlanBoard.API\PB_API.DL\obj\Debug\PB_API.DL.dll
+E:\PlanBoard\PlanBoard.API\PB_API.DL\obj\Debug\PB_API.DL.pdb

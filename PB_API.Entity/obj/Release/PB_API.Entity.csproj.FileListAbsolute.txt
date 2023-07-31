@@ -1,0 +1,9 @@
+E:\PlanBoard\PlanBoard.API\PB_API.Entity\bin\Release\PB_API.Entity.dll
+E:\PlanBoard\PlanBoard.API\PB_API.Entity\bin\Release\PB_API.Entity.pdb
+E:\PlanBoard\PlanBoard.API\PB_API.Entity\bin\Release\Newtonsoft.Json.dll
+E:\PlanBoard\PlanBoard.API\PB_API.Entity\bin\Release\Newtonsoft.Json.xml
+E:\PlanBoard\PlanBoard.API\PB_API.Entity\obj\Release\PB_API.Entity.csproj.AssemblyReference.cache
+E:\PlanBoard\PlanBoard.API\PB_API.Entity\obj\Release\PB_API.Entity.csproj.CoreCompileInputs.cache
+E:\PlanBoard\PlanBoard.API\PB_API.Entity\obj\Release\PB_API.Entity.csproj.CopyComplete
+E:\PlanBoard\PlanBoard.API\PB_API.Entity\obj\Release\PB_API.Entity.dll
+E:\PlanBoard\PlanBoard.API\PB_API.Entity\obj\Release\PB_API.Entity.pdb

@@ -1,0 +1,8 @@
+F:\Dillip\PlanBoard\PB_API.Common\bin\Debug\PB_API.Common.dll
+F:\Dillip\PlanBoard\PB_API.Common\bin\Debug\PB_API.Common.pdb
+F:\Dillip\PlanBoard\PB_API.Common\obj\Debug\PB_API.Common.csproj.AssemblyReference.cache
+F:\Dillip\PlanBoard\PB_API.Common\obj\Debug\PB_API.Common.csproj.CoreCompileInputs.cache
+F:\Dillip\PlanBoard\PB_API.Common\obj\Debug\PB_API.Common.dll
+F:\Dillip\PlanBoard\PB_API.Common\obj\Debug\PB_API.Common.pdb
+F:\Dillip\PlanBoard\PB_API.Common\bin\Debug\LoggerDal.dll
+F:\Dillip\PlanBoard\PB_API.Common\obj\Debug\PB_API.Common.csproj.CopyComplete

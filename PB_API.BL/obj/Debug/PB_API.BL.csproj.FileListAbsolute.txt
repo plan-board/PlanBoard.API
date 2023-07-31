@@ -1,0 +1,16 @@
+F:\Dillip\PlanBoard\PB_API.BL\bin\Debug\PB_API.BL.dll
+F:\Dillip\PlanBoard\PB_API.BL\bin\Debug\PB_API.BL.pdb
+F:\Dillip\PlanBoard\PB_API.BL\obj\Debug\PB_API.BL.csproj.AssemblyReference.cache
+F:\Dillip\PlanBoard\PB_API.BL\obj\Debug\PB_API.BL.csproj.CoreCompileInputs.cache
+F:\Dillip\PlanBoard\PB_API.BL\obj\Debug\PB_API.BL.dll
+F:\Dillip\PlanBoard\PB_API.BL\obj\Debug\PB_API.BL.pdb
+F:\Dillip\PlanBoard\PB_API.BL\bin\Debug\Newtonsoft.Json.dll
+F:\Dillip\PlanBoard\PB_API.BL\bin\Debug\PB_API.Common.dll
+F:\Dillip\PlanBoard\PB_API.BL\bin\Debug\PB_API.DL.dll
+F:\Dillip\PlanBoard\PB_API.BL\bin\Debug\PB_API.Entity.dll
+F:\Dillip\PlanBoard\PB_API.BL\bin\Debug\LoggerDal.dll
+F:\Dillip\PlanBoard\PB_API.BL\bin\Debug\PB_API.Common.pdb
+F:\Dillip\PlanBoard\PB_API.BL\bin\Debug\PB_API.DL.pdb
+F:\Dillip\PlanBoard\PB_API.BL\bin\Debug\PB_API.Entity.pdb
+F:\Dillip\PlanBoard\PB_API.BL\bin\Debug\Newtonsoft.Json.xml
+F:\Dillip\PlanBoard\PB_API.BL\obj\Debug\PB_API.BL.csproj.CopyComplete
